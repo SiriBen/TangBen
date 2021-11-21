@@ -1,1 +1,0 @@
-﻿git@vansing.net:/data/git/vansing.git
